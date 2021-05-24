@@ -1,0 +1,12 @@
+# Allowed
+@@||invite.latoken.com^$important
+@@||affiliate.flipkart.com^$important
+@@||bit.ly^$important
+
+# Block
+||telemetry.api.swiftkey.com^$important
+||in-gamecenter.vivoglobal.com^$important
+||web.facebook.com^$important
+||grs.dbankcloud.cn^$important
+||hanqiweb.cn^$important
+||stat-in.dc.oppomobile.com^
