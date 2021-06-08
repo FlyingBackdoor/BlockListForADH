@@ -10,12 +10,7 @@
 ||stat-in.dc.oppomobile.com^
 
 # Binance Chienese Trackers
-||grs.dbankcloud.cn^$important
-||hanqiweb.cn^$important
-||www.shyqxxy.com^$important
-||www.hanqiweb.net^$important
-||www.hanqiweb.red^$important
-||grs.dbankcloud.asia^$important
-||grs.dbankcloud.eu^$important
+||hanqiweb.*^$important
+||grs.dbankcloud.*^$important
+||shyqxxy.com^$important
 ||yshyqxx.com^$important
-||hanqiweb.com^$important
