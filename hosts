@@ -2,14 +2,18 @@
 @@||invite.latoken.com^$important
 @@||affiliate.flipkart.com^$important
 @@||bit.ly^$important
+@@||www.codecguide.com^$important
 
 # Block
 ||telemetry.api.swiftkey.com^$important
 ||in-gamecenter.vivoglobal.com^$important
 ||web.facebook.com^$important
 ||stat-in.dc.oppomobile.com^
+||easeutility.com^$important
+||suibyuming.com^$important
 
-# Binance Chienese Trackers
+# Binance & Chienese Trackers
+||*.cn^$important
 ||hanqiweb.*^$important
 ||grs.dbankcloud.*^$important
 ||shyqxxy.com^$important
