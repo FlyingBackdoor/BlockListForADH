@@ -3,6 +3,8 @@
 @@||affiliate.flipkart.com^$important
 @@||bit.ly^$important
 @@||www.codecguide.com^$important
+@@||stats.lineageos.org^$important
+@@||dit.whatsapp.net^$important
 
 # Block
 ||telemetry.api.swiftkey.com^$important
@@ -11,6 +13,8 @@
 ||stat-in.dc.oppomobile.com^
 ||easeutility.com^$important
 ||suibyuming.com^$important
+||apps.ad.snaptube.app^$important
+||log-eap-in.coloros.com^$important
 
 # Binance & Chienese Trackers
 ||*.cn^$important
