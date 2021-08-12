@@ -16,8 +16,10 @@
 ||log-eap-in.coloros.com^$important
 ||license-api.ccleaner.com^$important
 ||license.piriform.com^$important
+||redirect.haokan.mobi^$important
 
 # Binance & Chienese Trackers
+||trace.binance.gg^$important
 ||*.cn^$important
 ||hanqiweb.*^$important
 ||grs.dbankcloud.*^$important
