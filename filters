@@ -1,45 +1,44 @@
 # Allowed
-@@||invite.latoken.com^$important
+@@||invite.latoken.com
 @@||affiliate.flipkart.com^$important
 @@||bit.ly^$important
 @@||codecguide.com^$important
-@@||stats.lineageos.org^$important
+@@||stats.lineageos.org
 @@||rebrand.ly
 @@||inrdeals.com
 @@||onesignal.com
 
 # Block
-||telemetry.api.swiftkey.com^$important
-||in-gamecenter.vivoglobal.com^$important
+||ads.heytapmobile.com
+||telemetry.api.swiftkey.com
+||in-gamecenter.vivoglobal.com
 ||web.facebook.com^$important
 ||stat-in.dc.oppomobile.com^
-||easeutility.com^$important
-||suibyuming.com^$important
-||apps.ad.snaptube.app^$important
-||log-eap-in.coloros.com^$important
-||license-api.ccleaner.com^$important
-||license.piriform.com^$important
-||redirect.haokan.mobi^$important
-||*.ad.snaptube.app^$important
-||ads.phonepe.com^$important
-||addassets.airtel.in^$important
-||adconfig.wynk.in^$important
+||easeutility.com
+||suibyuming.com
+||log-eap-in.coloros.com
+||license-api.ccleaner.com
+||license.piriform.com
+||redirect.haokan.mobi
+||*.ad.snaptube.app^
+||ads.phonepe.com
+||addassets.airtel.in
+||adconfig.wynk.in
 
 # Binance & Chienese Trackers
-||trace.binance.gg^$important
-||*.cn^$important
-||hanqiweb.*^$important
-||grs.dbankcloud.*^$important
-||shyqxxy.com^$important
-||yshyqxx.com^$important
-||xunyou.mobi^$important
-||allawnos.com^$important
-||devfdg.net^$important
-||qa1fdg.net^$important
+||trace.binance.gg
+||*.cn
+||hanqiweb.*
+||grs.dbankcloud.*
+||shyqxxy.com
+||yshyqxx.com
+||xunyou.mobi
+||devfdg.net
+||qa1fdg.net
 ||mo23.biz^
 
 # XDistibuter
-||movies07.*^$important
+||movies07.*
 ||pdisks.com
 ||sharevideo6.com
 ||cofilink.com
