@@ -1,5 +1,4 @@
 # Allowed
-@@||invite.latoken.com
 @@||affiliate.flipkart.com^$important
 @@||bit.ly^$important
 @@||codecguide.com^$important
@@ -7,6 +6,10 @@
 @@||rebrand.ly
 @@||inrdeals.com
 @@||onesignal.com
+@@||pscp.tv
+@@||huawei.com
+@@||leechers-paradise.org
+@@||d.getpocket.com
 
 # Block
 ||ads.heytapmobile.com
@@ -39,11 +42,14 @@
 ||shrkar.com
 ||sharekaro.app
 ||unykxgbla.com
+||xenderbox.com
+||trk.clmbtrck.in
 
 # Binance & Chienese Trackers
 ||trace.binance.gg
 ||hanqiweb.*
 ||grs.dbankcloud.*
+||dbankcdn.com
 ||shyqxxy.com
 ||yshyqxx.com
 ||xunyou.mobi
